@@ -1,5 +1,5 @@
 shape,x,y,color,width,height
 rect,0,0,green,100,200
-circle,250,50,red,50,50
-ellipse,250,50,blue,150,50
+circle,50,50,red,25,25
+ellipse,250,50,blue,100,50
 line,25,25,black,50,50
